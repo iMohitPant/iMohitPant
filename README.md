@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on any type of project.
 - 💬 Ask me about MERN stack.
 - 📫 How to reach me: Email: mohitpant1999@gmail.com
-- 😄 Pronouns: He/His 
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 
 - Portfolio : https://imohitpant.github.io/
