@@ -8,6 +8,6 @@
 - 📫 How to reach me: Email: mohitpant1999@gmail.com
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 
-- Portfolio : https://imohitpant.github.io/
+- Portfolio : https://mohitpant.me
 
 
