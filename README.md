@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences on my [RESUME](https://docs.google.com/document/d/17JR1d763c10ilr1K5W65IFW51hM77wNihVLquiVZ8Co/edit?usp=sharing)
 
-- ⚡ Fun fact: **People think I am funny but I am certainly not.**
+- ⚡ Fun fact: **It's all about 0's and 1's.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
