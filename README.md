@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Pant</h1>
 <h3 align="center">A student who loves to solve real world problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imohitpant&label=Profile%20views&color=0e75b6&style=flat" alt="imohitpant" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imohitpant&label=Profile%20views&color=0e75b6&style=flat" alt="imohitpant" /> </p> -->
 
 - 🌱 I’m currently learning **Front-end frameworks**
 
