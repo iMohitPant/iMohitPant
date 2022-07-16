@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React.js/React-native projects**
 
-- 👨‍💻 All of my projects are available at [mohitpant.me](https://mohitpant.me)
+- 👨‍💻 All of my projects are available at [imohitpant.github.io](https://imohitpant.github.io/)
 
 - 💬 Ask me about **my skills**
 
